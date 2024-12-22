@@ -8,7 +8,6 @@ public class Horse extends Herbivore{
     @Override
     void eat() {
 {
-
         }
     }
 }
